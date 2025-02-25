@@ -7,3 +7,5 @@ A React-based online resume builder to create and customize resumes easily with 
   <li>PDF export option</li>
   <li>User-friendly interface</li>
 </ul>
+
+Author : Pooja Vishwakarma
