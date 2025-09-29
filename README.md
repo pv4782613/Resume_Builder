@@ -8,6 +8,6 @@ A React-based online resume builder to create and customize resumes easily with 
   <li>User-friendly interface</li>
 </ul>
 
-View Live 
+<a href="https://resume-builder-8606.onrender.com/">View Live</a>
 
 Author : Pooja Vishwakarma
