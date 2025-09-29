@@ -8,4 +8,6 @@ A React-based online resume builder to create and customize resumes easily with 
   <li>User-friendly interface</li>
 </ul>
 
+View Live 
+
 Author : Pooja Vishwakarma
